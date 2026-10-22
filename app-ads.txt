@@ -1,0 +1,2 @@
+# AdMob 퍼블리셔 ID를 받으면 아래 줄의 # 을 지우고 pub-XXXXXXXXXXXXXXXX 를 바꾸세요.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
